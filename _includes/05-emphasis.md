@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Bold* is what he is
+- Not bold
+- _bold_
+Below is a **list** again:
+## Stuff
+- _Ruby_
+- Go
+- Python
